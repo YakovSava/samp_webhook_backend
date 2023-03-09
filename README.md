@@ -1,0 +1,2 @@
+## Why is this necessary?
+This script is needed to provide a web hack, more precisely, an *AJAX* request from *SAMP* (_San Andreas MultiPlayer_) to a bot in a *telegram*. This repository was created purely for a friend, there is also a picture with a description of the work (**in Russian**)
